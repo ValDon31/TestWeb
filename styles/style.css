@@ -1,0 +1,46 @@
+header h1 {
+    text-align: center;
+    border: 52px solid #4587ff;
+}
+
+footer h3 {
+    text-align: center;
+    border: 2px solid #41528b;
+}
+
+header {
+    background-color: #4587ff;
+    transition: all 0.5s ease;
+    margin: 0;
+}
+
+footer {
+    background-color: #010101;
+
+}
+h3{
+    color: white;
+}
+
+#main-content {
+    text-align: center;
+}
+
+.mate {
+    display: inline-block;
+}
+
+h1{
+    color: white;
+    margin: 0;
+}
+
+body{
+    background-image: url("../asset/unnamed.jpg");
+    background-size: 100% 100%;
+    margin: 0;
+}
+
+header:hover {
+    box-shadow: 0 0 4px 0 black;
+}
